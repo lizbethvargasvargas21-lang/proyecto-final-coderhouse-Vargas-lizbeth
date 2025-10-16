@@ -5,8 +5,7 @@ Para el abstract, me propuse armar un resumen cortito, algo entre 250 y 500 pala
 Acá me puse a pensar cuáles eran las preguntas más importantes que me gustaría responder con este dataset. Las listé para tener bien claro qué buscar.
 
 Después de las preguntas, anoté mis hipótesis. Esto es básicamente lo que creo que voy a encontrar cuando empiece a analizar los datos para responder las preguntas. Es como mis suposiciones iniciales.
-
-Para el análisis univariado, me enfoqué en cada variable por separado que me parecía importante para mis preguntas e hipótesis. Las variables que son como categorías (las que no son números puros, sino IDs que representan cosas) y la duración del viaje, que la calculé, fueron las que miré una por una. Me fijé en ID_Canal1, ID_Provincia1, ID_Ciudad1, ID_Empresa1, ID_Producto1, ID_Tipo_de_Producto1 e ID_Forma_de_Pago1 para las categorías. Y para la duración del viaje, usé las fechas de inicio y fin.
+Para la segunda parte y mas completa del proyecto comence el análisis univariado, me enfoqué en cada variable por separado que me parecía importante para mis preguntas e hipótesis. Las variables que son como categorías (las que no son números puros, sino IDs que representan cosas) y la duración del viaje, que la calculé, fueron las que miré una por una. Me fijé en ID_Canal1, ID_Provincia1, ID_Ciudad1, ID_Empresa1, ID_Producto1, ID_Tipo_de_Producto1 e ID_Forma_de_Pago1 para las categorías. Y para la duración del viaje, usé las fechas de inicio y fin.
 
 Después de hacer cada gráfico y sacar los números de cada variable sola, escribí un texto para contar qué encontré. Expliqué qué me decían los gráficos y los resúmenes de números sobre los datos y cómo todo eso se conectaba con las preguntas e hipótesis que me hice al principio.
 
